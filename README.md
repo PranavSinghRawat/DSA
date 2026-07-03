@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0057-insert-interval) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
