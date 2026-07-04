@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0057-insert-interval) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0986-interval-list-intersections) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3620-network-recovery-pathways) |
+## Two Pointers
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0986-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
