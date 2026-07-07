@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
