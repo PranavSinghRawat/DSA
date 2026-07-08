@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
+| [0739-daily-temperatures](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1288-remove-covered-intervals) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -128,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
