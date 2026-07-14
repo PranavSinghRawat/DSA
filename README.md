@@ -165,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
