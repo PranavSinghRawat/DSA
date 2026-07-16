@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0057-insert-interval) |
+| [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0409-longest-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
