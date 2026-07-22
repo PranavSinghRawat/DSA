@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
+| [0704-binary-search](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0986-interval-list-intersections) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
