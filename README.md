@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
