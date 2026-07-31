@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
