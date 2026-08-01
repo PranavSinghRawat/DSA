@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0057-insert-interval) |
 | [0162-find-peak-element](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0179-largest-number) |
+| [0486-predict-the-winner](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0525-contiguous-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PranavSinghRawat/https-github.com-PranavSinghRawat-DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
